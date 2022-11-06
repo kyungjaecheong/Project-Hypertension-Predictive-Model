@@ -3,6 +3,11 @@
 Codestates AI Bootcamp 15th Project_2
 - 정경재(Kyung-Jae, Cheong)
 
+블로그 포스팅 바로가기
+- [[Project] 한국형 고혈압 예측 모델 개발 - (1) Intro & Data Preparation](https://velog.io/@dankj1991/Project-%ED%95%9C%EA%B5%AD%ED%98%95-%EA%B3%A0%ED%98%88%EC%95%95-%EC%98%88%EC%B8%A1-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C-1-Intro-Data-Preparation)
+- [[Project] 한국형 고혈압 예측 모델 개발 - (2) Modeling & Tuning](https://velog.io/@dankj1991/Project-%ED%95%9C%EA%B5%AD%ED%98%95-%EA%B3%A0%ED%98%88%EC%95%95-%EC%98%88%EC%B8%A1-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C-2-Modeling-Tuning)
+- [[Project] 한국형 고혈압 예측 모델 개발 - (3) Model 해석 & Conclusion](https://velog.io/@dankj1991/Project-%ED%95%9C%EA%B5%AD%ED%98%95-%EA%B3%A0%ED%98%88%EC%95%95-%EC%98%88%EC%B8%A1-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C-3-Model-%ED%95%B4%EC%84%9D-Conclusion)
+
 # Hypertension Predictive Model
 - 한국형 고혈압 예측 모델 개발
   - 고혈압 진단기준에 따른 차이가 있을까?
